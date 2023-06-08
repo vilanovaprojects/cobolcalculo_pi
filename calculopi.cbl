@@ -8,34 +8,34 @@
        FILE SECTION.
 
        WORKING-STORAGE SECTION.
-       01 PIREAL   PIC S9V9(37).
-       01 PI       PIC S9V9(37).
+       01 PIREAL   PIC S9V9(37) COMP-3.
+       01 PI       PIC S9V9(37) COMP-3.
        01 BUCLE       PIC 9(10).
        01 DENOMINADOR PIC 9(11).
        01 OPERADOR    PIC S9.
 
-       01 DATO1        PIC S9V9(37).
-       01 DATO2        PIC S9V9(37).
-       01 DATO3        PIC S9V9(37).
-       01 DATO4        PIC S9V9(37).
-       01 DATO5        PIC S9V9(37).
-       01 DATO6        PIC S9V9(37).
-       01 DATO7        PIC S9V9(37).
-       01 DATO8        PIC S9V9(37).
-       01 DATO9        PIC S9V9(37).
-       01 DATO10       PIC S9V9(37).
-       01 DATO11       PIC S9V9(37).
+       01 DATO1        PIC S9V9(37) COMP-3.
+       01 DATO2        PIC S9V9(37) COMP-3.
+       01 DATO3        PIC S9V9(37) COMP-3.
+       01 DATO4        PIC S9V9(37) COMP-3.
+       01 DATO5        PIC S9V9(37) COMP-3.
+       01 DATO6        PIC S9V9(37) COMP-3.
+       01 DATO7        PIC S9V9(37) COMP-3.
+       01 DATO8        PIC S9V9(37) COMP-3.
+       01 DATO9        PIC S9V9(37) COMP-3.
+       01 DATO10       PIC S9V9(37) COMP-3.
+       01 DATO11       PIC S9V9(37) COMP-3.
 
-       01 PROM1        PIC S9V9(37).
-       01 PROM2        PIC S9V9(37).
-       01 PROM3        PIC S9V9(37).
-       01 PROM4        PIC S9V9(37).
-       01 PROM5        PIC S9V9(37).
-       01 PROM6        PIC S9V9(37).
-       01 PROM7        PIC S9V9(37).
-       01 PROM8        PIC S9V9(37).
-       01 PROM9        PIC S9V9(37).
-       01 PROM10       PIC S9V9(37).
+       01 PROM1        PIC S9V9(37) COMP-3.
+       01 PROM2        PIC S9V9(37) COMP-3.
+       01 PROM3        PIC S9V9(37) COMP-3.
+       01 PROM4        PIC S9V9(37) COMP-3.
+       01 PROM5        PIC S9V9(37) COMP-3.
+       01 PROM6        PIC S9V9(37) COMP-3.
+       01 PROM7        PIC S9V9(37) COMP-3.
+       01 PROM8        PIC S9V9(37) COMP-3.
+       01 PROM9        PIC S9V9(37) COMP-3.
+       01 PROM10       PIC S9V9(37) COMP-3.
 
 
 
